@@ -1,5 +1,5 @@
 language: cpp
-
+arch : ppc64le
 jobs:
   include:
     - name: Windows (7 and later)
